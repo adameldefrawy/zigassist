@@ -63,7 +63,9 @@ If the 'card' setting in the top right does not match up with the microphone tha
 
 
 	* Paste the following into the .asoundrc file
-	* ```pcm.usb
+
+```
+pcm.usb
 {
 	type hw
 	card 1
