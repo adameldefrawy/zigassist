@@ -1,6 +1,6 @@
 # 8i Zig Assistant 
 
-Zig Assistant is a voice assistant for use in testing of the Zig rig.It is meant for installation on the console RaspberryPi in a 10-camera Zig Rig. The voice assistant can be used to turn the cameras on/off, start/stop recording, push the rig to storage/record mode. The assistant responds to "Adam" or "Hello Zig". It can be further customized to integrate any potential Python or Shell scripts.
+Zig Assistant is a voice assistant for use in testing of the Zig rig.It is meant for installation on the console RaspberryPi in a 10-camera Zig Rig. The voice assistant can be used to turn the cameras on/off, start/stop recording, push the rig to storage/record mode. The assistant responds to "ZigAssist" or "Adam". It can be further customized to integrate any potential Python or Shell scripts.
 
 
 It employs the use of Google Text-To-Speech, Google Speech Recognition, and Snowboy Hotword Recognition.
